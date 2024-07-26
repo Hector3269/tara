@@ -1,0 +1,10 @@
+#pagina{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color:black;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDc2UYez519g2rIdvCaY_aSNwz-Lo8LKr8kkz-UtTteAHrwzATzg7GVgn2Ap8fw4KAujQ&usqp=CAU);
+    background-size:cover;
+}
